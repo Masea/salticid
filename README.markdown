@@ -1,3 +1,5 @@
+# For CMPE-281 Personal Project 
+
 Salticid
 =====
 
